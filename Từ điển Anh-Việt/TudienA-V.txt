@@ -1,0 +1,330 @@
+ 1.able:Có năng lực, có tài
+ 2. abandon  :Bỏ, từ bỏ
+ 3. about  :  Khoảng, về
+ 4. above : Ở trên, lên trên
+ 5. act  :Hành động, hành vi, cử chỉ, đối xử
+ 6. add  :Cộng, thêm vào
+ 7. afraid  :Sợ, sợ hãi, hoảng sợ
+ 8. after  :Sau, đằng sau, sau khi
+ 9. again  :Lại, nữa, lần nữa
+ 10. against :Chống lại, phản đối
+ 11. age:   Tuổi
+ 12. ago:  Trước đây
+ 13. agree:  Đồng ý, tán thành
+ 14. air: Không khí, bầu không khí, không gian
+ 15. all: Tất cả
+ 16. allow: Cho phép, để cho
+ 17. also: Cũng, cũng vậy, cũng thế
+ 18. always: Luôn luôn
+ 19. among: Giữa, ở giữa
+ 20. an:nếu
+ 21. and:Và
+ 22. anger:Sự tức giận, sự giận dữ
+ 23. animal:Động vật, thú vật
+ 24. answer:Sự trả lời; trả lời
+ 25. any:Một người, vật nào đó; bất cứ; một chút nào, tí nào
+ 26. appear:Xuất hiện, hiện ra, trình diện
+ 27. apple:Quả táo
+ 28. are:Chúng tôi
+ 29. area:Diện tích, bề mặt
+ 30. arm:Cánh tay; vũ trang, trang bị (vũ khí)
+ 31. arrange :Sắp xếp, sắp đặt, sửa soạn
+ 32. baby:Đứa bé mới sinh; trẻ thơ
+ 33.back:Lưng, về phía sau, trở lại
+ 34.bad:Xấu, tồi
+ 35.ball:Quả bóng
+ 36.band:Băng, đai, nẹp
+ 37.bank:Bờ (sông…), đê
+ 38.bar:Quán bán rượu
+ 39.base:Cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
+ 40.basic:Cơ bản, cơ sở
+ 41.bat:(thể dục,thể thao) gây (đánh bóng chày, crikê); (từ cổ,nghĩa cổ) vợt (quần vợt)
+ 42.be:Thì, là
+ 43.bear:Mang, cầm, vác, đeo, ôm
+ 44.beat:Tiếng đập, sự đập; đánh đập, đấm
+ 45.beauty:Vẻ đẹp, cái đẹp; người đẹp
+ 46.bed:Cái giường
+ 47.been:Thì ,là
+ 48. before:Trước, đằng trước
+ 49. began:Bắt đầu, mở đầu, 
+ 50.begin:Bắt đầu, khởi đầu
+ 51. behind:Sau, ở đằng sau
+ 52. believe:Tin, tin tưởng
+ 53.bell:Cái chuông, tiếng chuông
+ 61. best:Tốt nhất
+ 62. better:Tốt hơn
+ 63. between:Giữa, ở giữa
+ 64. big:To, lớn
+ 65. bird:Con chim
+ 66. bit:Miếng, mảnh
+ 67. black:Đen; màu đen
+ 69. blood:Máu, huyết; sự tàn sát, chem giết
+ 70. blow:Nở hoa; sự nở hoa
+ 71. blue:Xanh, màu xanh
+ 72. board:Tấm ván; lát ván, lót ván
+ 73. boat:Tàu, thuyền
+ 74. body:hân thể, thân xác
+ 75. bone:Xương
+ 76. book:Sách; ghi chép
+ 77. born:Sinh, đẻ
+ 78. both:Cả hai
+ 79. bottom:Phần dưới cùng, thấp nhất; cuối, cuối cùng
+ 80. bought:Mua
+ 81. box:Hộp, thùng
+ 82. boy:Con trai, thiếu niên
+ 84. bread:Bánh mỳ
+ 85. break:Bẻ gãy, đập vỡ; sự gãy, sự vỡ
+ 86. bright:Sáng, sáng chói
+ 87. bring:Mang, cầm, xách lại
+ 95. busy: Bận, bận rộn
+ 96. but:Nhưng
+ 101. came:Khung chì (để) lắp kinh (cửa)
+ 102. camp:Trại, chỗ cắm trại; cắm trại, hạ trại
+ 103. can:Có thể; nhà tù, nhà giam, bình, ca đựng
+ 104. capital:Thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
+ 105. captain:Người cầm đầu, người chỉ huy, thủ lĩnh
+ 106. car:Xe hơi
+ 107. card:Thẻ, thiếp
+ 108. care:Sự chăm sóc, chăm nom; chăm sóc
+ 109. carry:Mang, vác, khuân chở
+ 110. case:Vỏ, ngăn, túi
+ 111. cat:Con mèo
+ 112. catch:Bắt lấy, nắm lấy, tóm lấy, chộp lấy
+ 113. caught:Sự bắt, sự nắm lấy; cái bắt, cái vồ, cái chộp
+ 118. century:Thế kỷ
+ 119. certain:chắc chắn
+ 120. chair:Ghế
+ 121. chance:Sự may mắn
+ 122. change:Thay đổi, sự thay đổi, sự biến đổi
+ 123. character:Tính cách, đặc tính, nhân vật
+ 124. charge:Nhiệm vụ, bổn phận, trách nhiệm; giao nhiệm vụ, giao việc
+ 127. chick:Gà con; chim con
+ 128. chief:Trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
+ 129. child:Đứa bé, đứa trẻ
+ 130. children:Đứa bé, đứa trẻ
+ 131. choose:Chọn, lựa chọn
+ 133. circle:Đường tròn, hình tròn
+ 134. city:Thành phố
+ 135. claim:Đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+ 136. class:Lớp học
+ 137. clean:Sạch, sạch sẽ
+ 138. clear:Lau chùi, quét dọn
+ 139. climb:Leo, trèo
+ 140. clock:Đồng hồ
+ 141. close:Đóng kín, chật chội, che đậy, đóng, khép, kết thúc, chấm dứt
+ 150. column:Cột, mục (báo)
+ 151. come:Đến, tới, đi đến, đi tới
+ 152. common:Công, công cộng, thông thường, phổ biến
+ 153. company:Công ty
+ 156. condition:Điều kiện, tình cảnh, tình thế
+ 157. connect:Kết nối, nối
+ 158. consider:Cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
+ 159. consonant:(âm nhạc) thuận tai, êm ái, du dương
+ 160. contain:Bao hàm, chứa đựng, bao gồm
+ 161. continent:Lục địa, đại lục (lục địa Bắc Mỹ)
+ 162. continue:Tiếp tục, làm tiếp
+ 163. control:Sự điều khiển, quyền hành, quyền lực, quyền chỉ huy
+ 164. cook:Nấu ăn, người nấu ăn
+ 165. cool:Mát mẻ, điềm tĩnh; làm mát
+ 166. copy:Bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
+ 171. cotton:Bông, chỉ, sợi
+ 172. could:Có thể, có khả năng
+ 173. count:Đếm, tính
+ 174. country:Nước, quốc gia, đất nước
+ 187. dad:Bố, cha
+ 188. dance:Sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+ 189. danger:Sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+ 190. dark:Tối, tối tăm; bóng tối, ám muội
+ 191. day:Ngày, ban ngày
+ 192. dead:Chết, tắt
+ 193. deal:Phân phát, phân phối; sự giao dịch, thỏa thuận mua bán
+ 194. dear:Thân, thân yêu, thân mến; kính thưa, thưa
+ 195. death:Sự chết, cái chết
+ 196. decide:Quyết định, giải quyết, phân xử
+ 197. decimal:(toán học) thập phân
+ 198. deep:Sâu, khó lường, bí ẩn
+ 199. degree:Mức độ, trình độ; bằng cấp; độ
+ 203. design:Sự thiết kế, kế hoạch, đề cương. phác thảo; phác họa, thiết kế
+ 204. determine:Xác định, định rõ; quyết định
+ 205. develop:Phát triển, mở rộng; trình bày, bày tỏ
+ 206. dictionary:Từ điển
+ 238. earth:Đất, trái đất
+ 239. ease:Sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
+ 240. east:Hướng đông, phía đông, (thuộc) đông, ở phía đông
+ 241. eat:Ăn
+ 242. edge:Lưỡi, cạnh sắc
+ 243. effect:Hiệu ứng, hiệu quả, kết quả
+ 244. egg:Trứng
+ 245. eight:Tám
+ 246. either:Mỗi, một; cũng phải thế
+ 247. electric:(thuộc) điện, có điện, phát điện
+ 256. equal:Ngang, bằng; người ngang hàng, ngang tài, sức; bằng, ngang
+ 258. especially:Đặc biệt là, nhất là
+ 259. even:Ngay cả, ngay, lại còn; bằng phẳng, điềm đạm, ngang bằng
+ 260. evening:Buổi chiều, tối
+ 261. event:Sự việc, sự kiện
+ 262. ever:Từng, từ trước tới giờ
+ 263. every:Mỗi, mọi
+ 272. eyes:Mắt
+ 274. face:Mặt, thể diện; đương đầu, đối phó, đối mặt
+ 275. fact:Việc, sự việc, sự kiện
+ 276. fair:Hợp lý, công bằng; thuận lợi
+ 277. fall:Rơi, ngã, sự rơi, ngã
+ 278. family:Gia đình, thuộc gia đình
+ 279. famous:Nổi tiếngvài
+ 293. field:Cánh đồng, bãi chiến trường
+ 294. fig: quả sung; quả vả
+ 295. fight:Đấu tranh, chiến đấu; sự đấu tranh, cuộc chiến đấu
+ 307. five:Năm
+ 312. fly:Bay; sự bay, quãng đường bay
+ 313. follow:Đi theo sau, theo, tiếp theo
+ 314. food:Đồ ăn, thức, món ăn
+ 315. foot:Chân, bàn chân
+ 329. fruit:Quả, trái cây
+ 345. go:Đi
+ 346. gold:Vàng; bằng vàng
+ 362. gun:Súng
+ 364. had:Có
+ 365. hair:Tóc
+ 366. half:Một nửa, phần chia đôi, nửa giờ; nửa
+ 377. heard:Nghe
+ 378. heart:Tim, trái tim
+ 394. hope:Hy vọng; nguồn hy vọng
+ 395. horse:Ngựa
+ 396. hot:Nóng, nóng bức
+ 397. hour:Giờ
+ 398. house:Nhà, căn nhà, toàn nhà
+ 407. ice:Băng, nước đá
+ 408. idea:Ý tưởng, quan niệm
+ 409. if:Nếu, nếu như
+ 410. imagine:Tưởng tượng, hình dung; tưởng rằng, cho rằng
+ 411. in:Ở, tại, trong; vào
+ 414. indicate:Chỉ, cho biết; biểu thị, trình bày ngắn gọn
+ 423. island:Hòn đảo
+ 427. join:Gia nhập, tham gia; nối, chắp, ghép
+ 428. joy:Niềm vui, sự vui mừng
+ 429. jump:Nhảy; sự nhảy, bước nhảy
+ 430. just:Đúng, vừa đủ; vừa mới, chỉ
+ 432. keep:Giữ, giữ lại
+ 433. kept:Giữ, giữ lại
+ 434. key:Chìa khóa, khóa, thuộc (khóa)
+ 444. language:Ngôn ngữ
+ 445. large:Rộng, lớn, to
+ 446. last:Lầm cuối, sau cùng; người cuối cùng; cuối cùng, rốt hết; kéo dài
+ 453. least:Tối thiểu; ít nhất
+ 454. leave:Bỏ đi, rời đi, để lại
+ 455. led:Lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+ 456. left:Bên trái; về phía trái
+ 457. leg:Chân (người, thú, bàn…)
+ 462. level:cấp độ
+463. lie:Nói dối; lời nói dối, sự dối trá
+ 464. life:Đời, sự sống
+ 465. lift:Giơ lên, nhấc lên; sự nâng, sự nhấc lên
+ 466. light:Ánh sáng; nhẹ, nhẹ nhàng; đốt, thắp sáng
+ 467. like:Giống như; thích; như
+ 468. line:Dây, đường, tuyến
+ 469. liquid:Chất lỏng; lỏng, êm ái, du dương, không vững
+ 470. list:Danh sách; ghi vào danh sách
+ 471. listen:Nghe, lắng nghe
+ 472. little:Nhỏ, bé, chút ít; không nhiều; một chút
+ 473. live:Sống
+ 477. long:Dài, xa; lâu
+ 478. look:Nhìn; cái nhìn
+ 479. lost:Thua, mất
+ 480. lot:Thăm, việc rút thăm; sự chọn bằng cách rút thăm
+ 481. loud:To, inh ỏi, ầm ĩ; to, lớn (nói)
+ 482. love:Yêu
+ 483. low:Thấp, bé, lùn
+ 485. machine:Máy, máy móc
+ 486. made:Làm, hoàn thành, thực hiện
+ 489. major:Lớn, nhiều hơn, trọng đại, chủ yếu
+ 490. make:Làm, chế tạo; sự chế tạo
+ 491. man:Con người; đàn ông
+ 492. many:Nhiều
+ 493. map:Bản đồ
+ 494. mark:Dấu, nhãn, nhãn mác; đánh dấu, ghi dấu
+ 503. mean:Nghĩa, có nghĩa là
+ 504. meant:Khoảng giữa, trung độ, trung gian, trung dung
+ 511. method:Phương pháp, cách thức
+ 512. middle:Giữa, ở giữa
+ 513. might:Có thể, có lẽ
+ 520. miss:Cô gái, thiếu nữ
+ 521. mix:Pha, trộn lẫn; sự pha trộn
+ 526. month:Tháng
+ 547. near:Gần, cận; ở gần
+ 548. necessary:Cần, cần thiết, thiết yếu
+ 549. neck:Cổ
+ 550. need:Cần, đòi hỏi; sự cần
+ 551. neighbor:Hàng xóm
+ 552. never:Không bao giờ, 
+ 602. paint:Sơn, vôi màu; sơn, quét sơn
+ 603. pair:Đôi, cặp
+ 604. paper:Giấy
+ 605. paragraph:Đoạn văn
+ 606. parent:Cha, mẹ
+ 615. people:Dân tộc, dòng giống; người
+ 616. perhaps:Có thể, có lẽ
+ 625. plain:Ngay thẳng, đơn giản, chất phác
+672. race:Loài, chủng, giống; cuộc đua; đua
+ 673. radio:Sóng vô tuyến, radio
+ 677. ran:Chạy
+ 678. range:Dãy, hàng, loại; phạm vi, trình độ
+ 679. rather:Thà.. còn hơn, thích… hơn
+ 680. reach:Đến, đi đến, tới
+ 697. ride:Đi, cưỡi (ngựa); sự đi, đường đi
+ 698. right:Thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, tốt, bên phải
+ 699. ring:Chiếc nhẫn, đeo nhẫn cho ai
+ 707. rope:Dây cáp, dây thừng, xâu, chuỗi
+ 708. rose:Hoa hồng; cây hoa hồng
+ 709. round:Tròn, vòng quanh, xung quanh
+ 710. row:Hàng, dây
+ 717. sail:Đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+ 718. salt:Muối
+ 723. saw:Nhìn
+ 724. say:Nói
+ 791. smell:Ngửi; sự ngửi, khứu giác
+ 798. solution:Sự giải quyết, giải pháp
+ 799. solve:Giải, giải thích, giải quyết
+ 810. speed:Tốc độ, vận tốc
+ 811. spell:Đánh vần; sự thu hút, sự quyến rũ, say mê
+ 812. spend:Tiêu, xài
+ 825. steam:Hơi nước
+ 826. steel:Thép, ngành thép
+ 837. stream:Dòng suối
+ 838. street:Phố, đườmg phố
+ 878. test:Bài kiểm tra, sự thử nghiệm, xét nghiệm; kiểm tra, xét nghiệm, thử nghiệm
+ 879. than:Hơn
+ 880. thank:Cám ơn
+ 881. that:Người ấy, đó, vật ấy, đó; rằng, là
+ 890. thin:Mỏng, mảnh
+ 891. thing:Cái, đồ, vật
+ 892. think:Nghĩ, suy nghĩ
+ 902. thus:Như vậy, như thế, do đó
+ 903. tie:Buộc, cột, trói; dây buộc, daay trói, dây giày
+ 904. time:Thời gian, thì giờ
+ 905. tiny:Rất nhỏ, nhỏ xíu
+ 914. top:đứng đầu
+918. town:Thị trấn, thị xã, thành phố nhỏ
+ 927. truck:Rau quả tươi
+ 928. true:Đúng, thật
+ 941. use:Sử dụng, dùng; sự dùng, sự sử dụng
+ 942. usual:Thông thường, thường dùng
+ 945. valley:Thung lũng
+ 946. value:Giá trị, ước tính, định giá
+ 947. vary:Thay đổi, làm cho khác nhau, biến đổi
+ 948. verb:(ngôn ngữ học)Động từ
+ 959. want:Muốn
+ 960. war:Chiến tranh
+ 961. warm:Ấm, ấm áp; làm cho nóng, hâm nóng
+ 968. we:Chúng tôi, chúng ta
+ 969. wear:Mặc, mang, đeo
+ 984. white:Trắng; màu trắng
+ 985. who:Ai, người nào, kẻ nào, người như thế nào
+ 1015. yard:Iat, thước Anh (bằng 0, 914 mét), sân
+ 1017. yellow:Vàng
+ 1018. yes:Vâng, phải, dạ, được, ừ, có, có chứ
+ 1019. yet:Còn, hãy còn, còn nữa
+ 1020. you:Anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài
+ 1021. young:Trẻ, trẻ tuổi, thiếu niên, thanh niên
+
+

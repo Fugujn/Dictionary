@@ -1,0 +1,11 @@
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\bin\Debug\Từ điển Anh-Việt.exe.config
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\bin\Debug\Từ điển Anh-Việt.exe
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\bin\Debug\Từ điển Anh-Việt.pdb
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ_điển_Anh_Việt.Dangnhap.resources
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ_điển_Anh_Việt.Form1.resources
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ_điển_Anh_Việt.Properties.Resources.resources
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.GenerateResource.cache
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.CoreCompileInputs.cache
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.exe
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.pdb
+C:\laptrinhgiaodien\Từ điển Anh-Việt\Từ điển Anh-Việt\obj\Debug\Từ điển Anh-Việt.csproj.AssemblyReference.cache
